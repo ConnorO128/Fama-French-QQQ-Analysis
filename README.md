@@ -65,7 +65,7 @@ The model is fit using ordinary least squares (OLS) regression in R.
 
 ## Regression Results
 
-The regression output shows that QQQ has statistically significant exposure to the overall market factor, while exhibiting negative exposure to SMB and HML factors, which is consistent with a large-cap growth-oriented ETF.
+The regression output shows that QQQ has statistically significant exposure to the overall market factor, while showing negative exposure to SMB and HML factors, which is consistent with a large-cap growth-oriented ETF.
 
 ![Regression Results](regression_results.png)
 
